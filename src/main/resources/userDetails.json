@@ -1,0 +1,58 @@
+[
+  {
+    "userId": "kgoje",
+    "favouriteCuisine": [
+      "Asian",
+      "Indian"
+    ],
+    "budget": 38.5,
+    "ambience": [
+      "light",
+      "slow"
+    ],
+    "maritalStatus": "Married",
+    "address": "12 XXX, Manhattan, NY, 010001",
+    "placeInteractionDetails": [
+      {
+        "placeId": "P121422",
+        "visitDate": "2020-11-02 10:00:00",
+        "rating": 5,
+        "saleAmount": 586
+      },
+      {
+        "placeId": "P12142324242",
+        "visitDate": "2021-01-01 10:00:00",
+        "rating": 3,
+        "saleAmount": 7438
+      }
+    ]
+  },
+  {
+    "userId": "kgoje1",
+    "favouriteCuisine": [
+      "Asian",
+      "Indian"
+    ],
+    "budget": 38.5,
+    "ambience": [
+      "light",
+      "slow"
+    ],
+    "maritalStatus": "Married",
+    "address": "12 XXX, Manhattan, NY, 010001",
+    "placeInteractionDetails": [
+      {
+        "placeId": "P121422",
+        "visitDate": "2020-11-01 10:00:00",
+        "rating": 5,
+        "saleAmount": 586
+      },
+      {
+        "placeId": "P12142324242",
+        "visitDate": "2021-01-01 11:00:00",
+        "rating": 3,
+        "saleAmount": 7438
+      }
+    ]
+  }
+]

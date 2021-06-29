@@ -1,0 +1,32 @@
+[
+  {
+    "placeId": "zldfjso48935",
+    "acceptedPayments": [
+      "Visa",
+      "Amex",
+      "Discover"
+    ],
+    "servedCuisines": [
+      "Asian",
+      "Indian",
+      "American"
+    ],
+    "openHours": "Mon- Thur : 10AM- 9PM",
+    "parkingType": "free"
+  },
+  {
+    "placeId": "zldfjso48935",
+    "acceptedPayments": [
+      "Visa",
+      "Amex",
+      "Discover"
+    ],
+    "servedCuisines": [
+      "Asian",
+      "Indian",
+      "American"
+    ],
+    "openHours": "Mon- Thur : 10AM- 9PM",
+    "parkingType": "free"
+  }
+]
